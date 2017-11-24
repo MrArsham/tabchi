@@ -13,8 +13,9 @@
 <span>./bot 1</span>
 </pre> 
 <h4 dir="rtl"> برای ساخت ربات های بیشتر هم به همین صورت پیش بروید</h4>
+<h4 dir="rtl"> به جای 1میتوانی اعدا دلخواهی جهت ساخت ربات های بیشتر بزارید.</h4>
+<h4 dir="rtl"> جهت اتولانچ کردن هم از دستور.</h4>
+<pre>
+<span>./bot autolaunch</span>
 </pre> 
-<span>./bot 2</span>
-<span>./bot 3</span>
-<span>...</span>
-</pre> 
+<h4 dir="rtl">استفاده کنید.</h4>
