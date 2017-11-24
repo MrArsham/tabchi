@@ -19,3 +19,8 @@
 <span>./bot autolaunch</span>
 </pre> 
 <h4 dir="rtl">استفاده کنید.</h4>
+
+
+
+<h4 align="center" dir="rtl">اپن کننده<a href="https://telegram.me/DevOFall"> @DevOFall </a><br>جهت دسترسی به اموزش های بیشتر به کانال ما پیوندید<a href="https://telegram.me/bad_team"> @bad_team</a></h4>
+
