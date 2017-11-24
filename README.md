@@ -13,3 +13,6 @@
 <span>./bot 1</span>
 </pre> 
 <h4 dir="rtl"> برای ساخت ربات های بیشتر هم به همین صورت پیش بروید</h4>
+<h4 dir="rtl"> ./bot 1</h4>
+<h4 dir="rtl"> ./bot 2</h4>
+<h4 dir="rtl"> ...</h4>
